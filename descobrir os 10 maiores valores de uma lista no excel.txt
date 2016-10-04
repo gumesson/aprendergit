@@ -1,0 +1,14 @@
+
+Segue a dica de como descobrir os 10 maiores valores de uma lista no excel:
+
+Seleciona 10 células em branco (onde vão aparecer os valores).
+
+Entra com a fórmula:
+
+=MAIOR(B2:B40;{1;2;3;4;5;6;7;8;9;10})
+
+Atenção: B2:B40 é o intervalo que tu irás selecionar.
+
+Depois finaliza a fórmula com CTRL + SHIFT + ENTER
+
+Esse é um exemplo de uso de MATRIZES no Excel.
